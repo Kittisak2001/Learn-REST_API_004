@@ -6,6 +6,7 @@ const About = () => {
             <h2>
                 {" "}
                 This is React User Contact Management System Application using Node and Express JS along with Routing.
+                By KTS
             </h2>
         </div>
     )
